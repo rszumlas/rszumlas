@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 - 🔭 I’m currently working on ETHanol. https://github.com/rszumlas/ETHanol..git
 
-- 🌱 I’m currently learning **Spring Boot, Kafka**
+- 🌱 I’m currently learning **Spring Boot and Kafka :))**
 
 - 📫 How to reach me **rszumlas0000@gmail.com**
 
