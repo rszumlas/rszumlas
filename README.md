@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Robert</h3>
-- 🔭 I’m currently working on ETHanol. https://github.com/rszumlas/ETHanol..git
+- 🔭 I’m currently working on the server side of my app ETHanol. https://github.com/rszumlas/ETHanol.Server.git. Client mobile app expected later on.
 
 - 🌱 I’m currently learning **Spring Boot and Kafka :))**
 
